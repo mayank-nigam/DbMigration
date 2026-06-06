@@ -3,8 +3,8 @@
 > **Project:** MySMS CRM Platform — Database Architecture Migration  
 > **From:** Multi-tenant shared databases on SQL Server 2019 Standard (on-premises)  
 > **To:** Single-tenant per-client databases on Azure SQL Database  
-> **Server:** K19Prod — `aznetpocdbs01` (20.244.133.86)  
-> **Replica:** K19ReplicaWeb — `AZNETPOCDBS04` (20.244.242.191)  
+> **Server:** K19Prod — `aznetpocdbs01` (20.244.xxx.xx)  
+> **Replica:** K19ReplicaWeb — `AZNETPOCDBS04` (20.244.yyy.yyy)  
 > **Pilot Client:** ParentID `34594` (internal test account)  
 > **Active Clients:** ~420 ParentIDs confirmed from `MySMS.dbo.UserLeads`
 
